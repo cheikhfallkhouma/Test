@@ -22,6 +22,7 @@ public class Bien {
     private int nombreSalon;
     private String adresse;
     private String commentaire;
+
     private boolean dispo;
     private LocalDate dateCreation;
     private LocalDate dateModif;
